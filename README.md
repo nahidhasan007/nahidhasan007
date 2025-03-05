@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahidhasan007
-- 👀 I’m interested in ...problem solving and software development project
-- 🌱 I’m currently learning ...pyhton, Django And frontend stuffs along with my problem solving on various online judge
+- 👀 I’m interested in ...problem solving android development and software development project
+- 🌱 I’m a software engineer interested about learning new technology stuffs along with my problem solving on various online judge
 
 <!---
 nahidhasan007/nahidhasan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
