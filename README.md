@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahidhasan007
 - Interested in ...Problem solving, Android Development and Backend Development
-- FrontEnd : Android(Kotlin, Java)
+- FrontEnd : Android(Kotlin, Java, Dart)
 - Backend : Python(Django, Ktor)
 - Speech Processing(Machine Learning)
 - 🌱 I’m a software engineer interested about learning new technology stuffs along with my problem solving on various online judge
